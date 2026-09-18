@@ -1,0 +1,6 @@
+{
+  "name": "VELORA",
+  "description": "A modern multi-category e-commerce platform designed for a seamless and intuitive shopping experience. Shop smarter. Live better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
